@@ -1,0 +1,21 @@
+.btn3{
+
+   margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      
+      background:#FC9208;
+   font-weight: bold;
+   font-size: 1em;
+   letter-spacing: 0.1em;
+   text-decoration: none;
+   color: #ffffff;
+   display: inline-block;
+   padding: 10px 40px 10px 40px;
+   position: relative;
+   border: 3px solid #ffffff;
+   border-radius: 20px;
+ }
